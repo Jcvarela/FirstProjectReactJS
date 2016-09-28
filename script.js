@@ -1,5 +1,8 @@
 
 
+
+
+
 var CommentBox = React.createClass({
 
   render: function() {
@@ -75,3 +78,4 @@ var Main = React.createClass({
 });
 
 ReactDOM.render(<Main/>,document.getElementById("root3"));
+
